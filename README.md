@@ -6,5 +6,5 @@ npm init
 ```
 
 ```js
-https://poke-app-xi-six.vercel.app/Ranking
+https://poke-app-xi-six.vercel.app/
 ```
